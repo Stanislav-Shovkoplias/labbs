@@ -1,0 +1,29 @@
+{
+  "name": "lab2",
+  "version": "1.0.0",
+  "description": "Simple web scrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RubyLegend/nodejs_labs.git"
+  },
+  "keywords": [
+    "Web",
+    "Scrapper"
+  ],
+  "author": "RubyLegend",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RubyLegend/nodejs_labs/issues"
+  },
+  "homepage": "https://github.com/RubyLegend/nodejs_labs#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "eslint": "^8.36.0",
+    "nodemon": "^2.0.21"
+  }
+}
